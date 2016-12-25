@@ -1,0 +1,6 @@
+ #imgID {
+        width: 400px;
+        height: 400px;
+        position: relative; /* or fixed or absolute */
+        border: 4px solid #ccc;
+ }
