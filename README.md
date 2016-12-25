@@ -1,7 +1,7 @@
 # Croppic combine Carousel Example - Python Flask 
 Croppic 搭配 Carousel 簡單範例 ，使用 Python Flask 
 
-* [Youtube Demo]()  
+* [Youtube Demo](https://youtu.be/fbZ0S659S_g)  
 
 常看到別人的網站有上傳圖片(並且有截圖功能)，教你使用 Python [Flask](http://flask.pocoo.org/) 快速建立一個。
 
@@ -22,7 +22,7 @@ pip install Pillow
 ```
 更多資料可參考 [ http://pillow.readthedocs.org/en/3.1.x/index.html ]( http://pillow.readthedocs.org/en/3.1.x/index.html ) 
 
-之前我也有稍微介紹過[ Pillow ]( http://pillow.readthedocs.org/en/3.1.x/index.html ) ，可參考 [pillow-examples ]( https://github.com/twtrubiks/pillow-examplesl ) 
+之前我也有稍微介紹過[ Pillow ]( http://pillow.readthedocs.org/en/3.1.x/index.html ) ，可參考 [pillow-examples ]( https://github.com/twtrubiks/pillow-examples ) 
 
 ### 使用 Croppic 
 
